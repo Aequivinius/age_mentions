@@ -1,0 +1,6 @@
+Pipfile.lock
+*.ipynb_checkpoints
+*.pyc
+*.py.swp
+._*
+__*
