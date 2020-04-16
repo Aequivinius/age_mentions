@@ -1,0 +1,2695 @@
+{
+  "id": "2684649280",
+  "tokens": [
+    {
+      "text": "Hi",
+      "startIdx": 0,
+      "endIdx": 2
+    },
+    {
+      "text": ",",
+      "startIdx": 3,
+      "endIdx": 4
+    },
+    {
+      "text": ".",
+      "startIdx": 5,
+      "endIdx": 6
+    },
+    {
+      "text": "I",
+      "startIdx": 7,
+      "endIdx": 8
+    },
+    {
+      "text": "was",
+      "startIdx": 9,
+      "endIdx": 12
+    },
+    {
+      "text": "diagnosed",
+      "startIdx": 13,
+      "endIdx": 22
+    },
+    {
+      "text": "in",
+      "startIdx": 23,
+      "endIdx": 25
+    },
+    {
+      "text": "2005",
+      "startIdx": 26,
+      "endIdx": 30
+    },
+    {
+      "text": ",",
+      "startIdx": 31,
+      "endIdx": 32
+    },
+    {
+      "text": "I",
+      "startIdx": 33,
+      "endIdx": 34
+    },
+    {
+      "text": "was",
+      "startIdx": 35,
+      "endIdx": 38
+    },
+    {
+      "text": "44",
+      "startIdx": 39,
+      "endIdx": 41
+    },
+    {
+      "text": "working",
+      "startIdx": 42,
+      "endIdx": 49
+    },
+    {
+      "text": "in",
+      "startIdx": 50,
+      "endIdx": 52
+    },
+    {
+      "text": "The",
+      "startIdx": 53,
+      "endIdx": 56
+    },
+    {
+      "text": "Middle",
+      "startIdx": 57,
+      "endIdx": 63
+    },
+    {
+      "text": "East",
+      "startIdx": 64,
+      "endIdx": 68
+    },
+    {
+      "text": ".",
+      "startIdx": 69,
+      "endIdx": 70
+    },
+    {
+      "text": "In",
+      "startIdx": 71,
+      "endIdx": 73
+    },
+    {
+      "text": "2006",
+      "startIdx": 74,
+      "endIdx": 78
+    },
+    {
+      "text": "I",
+      "startIdx": 79,
+      "endIdx": 80
+    },
+    {
+      "text": "returned",
+      "startIdx": 81,
+      "endIdx": 89
+    },
+    {
+      "text": "to",
+      "startIdx": 90,
+      "endIdx": 92
+    },
+    {
+      "text": "England",
+      "startIdx": 93,
+      "endIdx": 100
+    },
+    {
+      "text": "to",
+      "startIdx": 101,
+      "endIdx": 103
+    },
+    {
+      "text": "see",
+      "startIdx": 104,
+      "endIdx": 107
+    },
+    {
+      "text": "a",
+      "startIdx": 108,
+      "endIdx": 109
+    },
+    {
+      "text": "Neurology",
+      "startIdx": 110,
+      "endIdx": 119
+    },
+    {
+      "text": "Professor",
+      "startIdx": 120,
+      "endIdx": 129
+    },
+    {
+      "text": ",",
+      "startIdx": 130,
+      "endIdx": 131
+    },
+    {
+      "text": "he",
+      "startIdx": 132,
+      "endIdx": 134
+    },
+    {
+      "text": "could",
+      "startIdx": 135,
+      "endIdx": 140
+    },
+    {
+      "text": "not",
+      "startIdx": 141,
+      "endIdx": 144
+    },
+    {
+      "text": "confirm",
+      "startIdx": 145,
+      "endIdx": 152
+    },
+    {
+      "text": "Parkinson's",
+      "startIdx": 153,
+      "endIdx": 164
+    },
+    {
+      "text": "from",
+      "startIdx": 165,
+      "endIdx": 169
+    },
+    {
+      "text": "his",
+      "startIdx": 170,
+      "endIdx": 173
+    },
+    {
+      "text": "examination",
+      "startIdx": 174,
+      "endIdx": 185
+    },
+    {
+      "text": "and",
+      "startIdx": 186,
+      "endIdx": 189
+    },
+    {
+      "text": "so",
+      "startIdx": 190,
+      "endIdx": 192
+    },
+    {
+      "text": ",",
+      "startIdx": 193,
+      "endIdx": 194
+    },
+    {
+      "text": "he",
+      "startIdx": 195,
+      "endIdx": 197
+    },
+    {
+      "text": "arranged",
+      "startIdx": 198,
+      "endIdx": 206
+    },
+    {
+      "text": "a",
+      "startIdx": 207,
+      "endIdx": 208
+    },
+    {
+      "text": "Dat",
+      "startIdx": 209,
+      "endIdx": 212
+    },
+    {
+      "text": "Scan",
+      "startIdx": 213,
+      "endIdx": 217
+    },
+    {
+      "text": "which",
+      "startIdx": 218,
+      "endIdx": 223
+    },
+    {
+      "text": "confirmed",
+      "startIdx": 224,
+      "endIdx": 233
+    },
+    {
+      "text": "that",
+      "startIdx": 234,
+      "endIdx": 238
+    },
+    {
+      "text": "I",
+      "startIdx": 239,
+      "endIdx": 240
+    },
+    {
+      "text": "do",
+      "startIdx": 241,
+      "endIdx": 243
+    },
+    {
+      "text": "have",
+      "startIdx": 244,
+      "endIdx": 248
+    },
+    {
+      "text": "Parkinson's",
+      "startIdx": 249,
+      "endIdx": 260
+    },
+    {
+      "text": ".",
+      "startIdx": 261,
+      "endIdx": 262
+    },
+    {
+      "text": "However",
+      "startIdx": 263,
+      "endIdx": 270
+    },
+    {
+      "text": ",",
+      "startIdx": 271,
+      "endIdx": 272
+    },
+    {
+      "text": "in",
+      "startIdx": 273,
+      "endIdx": 275
+    },
+    {
+      "text": "2013",
+      "startIdx": 276,
+      "endIdx": 280
+    },
+    {
+      "text": "I",
+      "startIdx": 281,
+      "endIdx": 282
+    },
+    {
+      "text": "met",
+      "startIdx": 283,
+      "endIdx": 286
+    },
+    {
+      "text": "with",
+      "startIdx": 287,
+      "endIdx": 291
+    },
+    {
+      "text": "another",
+      "startIdx": 292,
+      "endIdx": 299
+    },
+    {
+      "text": "Neurology",
+      "startIdx": 300,
+      "endIdx": 309
+    },
+    {
+      "text": "Professor",
+      "startIdx": 310,
+      "endIdx": 319
+    },
+    {
+      "text": "in",
+      "startIdx": 320,
+      "endIdx": 322
+    },
+    {
+      "text": "Singapore",
+      "startIdx": 323,
+      "endIdx": 332
+    },
+    {
+      "text": ",",
+      "startIdx": 333,
+      "endIdx": 334
+    },
+    {
+      "text": "he",
+      "startIdx": 335,
+      "endIdx": 337
+    },
+    {
+      "text": "rejected",
+      "startIdx": 338,
+      "endIdx": 346
+    },
+    {
+      "text": "the",
+      "startIdx": 347,
+      "endIdx": 350
+    },
+    {
+      "text": "Dat",
+      "startIdx": 351,
+      "endIdx": 354
+    },
+    {
+      "text": "Scan",
+      "startIdx": 355,
+      "endIdx": 359
+    },
+    {
+      "text": "findings",
+      "startIdx": 360,
+      "endIdx": 368
+    },
+    {
+      "text": "and",
+      "startIdx": 369,
+      "endIdx": 372
+    },
+    {
+      "text": "said",
+      "startIdx": 373,
+      "endIdx": 377
+    },
+    {
+      "text": "that",
+      "startIdx": 378,
+      "endIdx": 382
+    },
+    {
+      "text": "I",
+      "startIdx": 383,
+      "endIdx": 384
+    },
+    {
+      "text": "did",
+      "startIdx": 385,
+      "endIdx": 388
+    },
+    {
+      "text": "not",
+      "startIdx": 389,
+      "endIdx": 392
+    },
+    {
+      "text": "have",
+      "startIdx": 393,
+      "endIdx": 397
+    },
+    {
+      "text": "the",
+      "startIdx": 398,
+      "endIdx": 401
+    },
+    {
+      "text": "disease",
+      "startIdx": 402,
+      "endIdx": 409
+    },
+    {
+      "text": "but",
+      "startIdx": 410,
+      "endIdx": 413
+    },
+    {
+      "text": ",",
+      "startIdx": 414,
+      "endIdx": 415
+    },
+    {
+      "text": "he",
+      "startIdx": 416,
+      "endIdx": 418
+    },
+    {
+      "text": "didn't",
+      "startIdx": 419,
+      "endIdx": 425
+    },
+    {
+      "text": "say",
+      "startIdx": 426,
+      "endIdx": 429
+    },
+    {
+      "text": "what",
+      "startIdx": 430,
+      "endIdx": 434
+    },
+    {
+      "text": "I",
+      "startIdx": 435,
+      "endIdx": 436
+    },
+    {
+      "text": "had",
+      "startIdx": 437,
+      "endIdx": 440
+    },
+    {
+      "text": ".",
+      "startIdx": 441,
+      "endIdx": 442
+    },
+    {
+      "text": "Again",
+      "startIdx": 443,
+      "endIdx": 448
+    },
+    {
+      "text": "I",
+      "startIdx": 449,
+      "endIdx": 450
+    },
+    {
+      "text": "returned",
+      "startIdx": 451,
+      "endIdx": 459
+    },
+    {
+      "text": "to",
+      "startIdx": 460,
+      "endIdx": 462
+    },
+    {
+      "text": "England",
+      "startIdx": 463,
+      "endIdx": 470
+    },
+    {
+      "text": "and",
+      "startIdx": 471,
+      "endIdx": 474
+    },
+    {
+      "text": "the",
+      "startIdx": 475,
+      "endIdx": 478
+    },
+    {
+      "text": "Neurologist",
+      "startIdx": 479,
+      "endIdx": 490
+    },
+    {
+      "text": "told",
+      "startIdx": 491,
+      "endIdx": 495
+    },
+    {
+      "text": "me",
+      "startIdx": 496,
+      "endIdx": 498
+    },
+    {
+      "text": "that",
+      "startIdx": 499,
+      "endIdx": 503
+    },
+    {
+      "text": "I",
+      "startIdx": 504,
+      "endIdx": 505
+    },
+    {
+      "text": "have",
+      "startIdx": 506,
+      "endIdx": 510
+    },
+    {
+      "text": "YOPD",
+      "startIdx": 511,
+      "endIdx": 515
+    },
+    {
+      "text": "!",
+      "startIdx": 516,
+      "endIdx": 517
+    },
+    {
+      "text": "I",
+      "startIdx": 518,
+      "endIdx": 519
+    },
+    {
+      "text": "have",
+      "startIdx": 520,
+      "endIdx": 524
+    },
+    {
+      "text": "only",
+      "startIdx": 525,
+      "endIdx": 529
+    },
+    {
+      "text": "met",
+      "startIdx": 530,
+      "endIdx": 533
+    },
+    {
+      "text": "3-4",
+      "startIdx": 534,
+      "endIdx": 537
+    },
+    {
+      "text": "other",
+      "startIdx": 538,
+      "endIdx": 543
+    },
+    {
+      "text": "Parkinson's",
+      "startIdx": 544,
+      "endIdx": 555
+    },
+    {
+      "text": "victims",
+      "startIdx": 556,
+      "endIdx": 563
+    },
+    {
+      "text": ",",
+      "startIdx": 564,
+      "endIdx": 565
+    },
+    {
+      "text": "all",
+      "startIdx": 566,
+      "endIdx": 569
+    },
+    {
+      "text": "were",
+      "startIdx": 570,
+      "endIdx": 574
+    },
+    {
+      "text": "older",
+      "startIdx": 575,
+      "endIdx": 580
+    },
+    {
+      "text": "than",
+      "startIdx": 581,
+      "endIdx": 585
+    },
+    {
+      "text": "myself",
+      "startIdx": 586,
+      "endIdx": 592
+    },
+    {
+      "text": ".",
+      "startIdx": 593,
+      "endIdx": 594
+    },
+    {
+      "text": "Now",
+      "startIdx": 595,
+      "endIdx": 598
+    },
+    {
+      "text": "it",
+      "startIdx": 599,
+      "endIdx": 601
+    },
+    {
+      "text": "seems",
+      "startIdx": 602,
+      "endIdx": 607
+    },
+    {
+      "text": "that",
+      "startIdx": 608,
+      "endIdx": 612
+    },
+    {
+      "text": "I",
+      "startIdx": 613,
+      "endIdx": 614
+    },
+    {
+      "text": "am",
+      "startIdx": 615,
+      "endIdx": 617
+    },
+    {
+      "text": "experiencing",
+      "startIdx": 618,
+      "endIdx": 630
+    },
+    {
+      "text": "\"",
+      "startIdx": 631,
+      "endIdx": 632
+    },
+    {
+      "text": "on",
+      "startIdx": 633,
+      "endIdx": 635
+    },
+    {
+      "text": "-",
+      "startIdx": 636,
+      "endIdx": 637
+    },
+    {
+      "text": "off",
+      "startIdx": 638,
+      "endIdx": 641
+    },
+    {
+      "text": "\"",
+      "startIdx": 642,
+      "endIdx": 643
+    },
+    {
+      "text": "symptoms",
+      "startIdx": 644,
+      "endIdx": 652
+    },
+    {
+      "text": "and",
+      "startIdx": 653,
+      "endIdx": 656
+    },
+    {
+      "text": "do",
+      "startIdx": 657,
+      "endIdx": 659
+    },
+    {
+      "text": "not",
+      "startIdx": 660,
+      "endIdx": 663
+    },
+    {
+      "text": "know",
+      "startIdx": 664,
+      "endIdx": 668
+    },
+    {
+      "text": "what",
+      "startIdx": 669,
+      "endIdx": 673
+    },
+    {
+      "text": "to",
+      "startIdx": 674,
+      "endIdx": 676
+    },
+    {
+      "text": "do",
+      "startIdx": 677,
+      "endIdx": 679
+    },
+    {
+      "text": "about",
+      "startIdx": 680,
+      "endIdx": 685
+    },
+    {
+      "text": "it",
+      "startIdx": 686,
+      "endIdx": 688
+    },
+    {
+      "text": ".",
+      "startIdx": 689,
+      "endIdx": 690
+    },
+    {
+      "text": "I",
+      "startIdx": 691,
+      "endIdx": 692
+    },
+    {
+      "text": "am",
+      "startIdx": 693,
+      "endIdx": 695
+    },
+    {
+      "text": "living",
+      "startIdx": 696,
+      "endIdx": 702
+    },
+    {
+      "text": "in",
+      "startIdx": 703,
+      "endIdx": 705
+    },
+    {
+      "text": "Indonesia",
+      "startIdx": 706,
+      "endIdx": 715
+    },
+    {
+      "text": "where",
+      "startIdx": 716,
+      "endIdx": 721
+    },
+    {
+      "text": "there",
+      "startIdx": 722,
+      "endIdx": 727
+    },
+    {
+      "text": "are",
+      "startIdx": 728,
+      "endIdx": 731
+    },
+    {
+      "text": "no",
+      "startIdx": 732,
+      "endIdx": 734
+    },
+    {
+      "text": "support",
+      "startIdx": 735,
+      "endIdx": 742
+    },
+    {
+      "text": "groups",
+      "startIdx": 743,
+      "endIdx": 749
+    },
+    {
+      "text": ".",
+      "startIdx": 750,
+      "endIdx": 751
+    },
+    {
+      "text": "cookies",
+      "startIdx": 752,
+      "endIdx": 759
+    },
+    {
+      "text": ".",
+      "startIdx": 760,
+      "endIdx": 761
+    }
+  ],
+  "spans": [
+    {
+      "tokens": [
+        {
+          "text": "Hi",
+          "startIdx": 0,
+          "endIdx": 2
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 3,
+          "endIdx": 4
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 5,
+          "endIdx": 6
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 7,
+          "endIdx": 8
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "was",
+          "startIdx": 9,
+          "endIdx": 12
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "diagnosed",
+          "startIdx": 13,
+          "endIdx": 22
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "in",
+          "startIdx": 23,
+          "endIdx": 25
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "2005",
+          "startIdx": 26,
+          "endIdx": 30
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 31,
+          "endIdx": 32
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 33,
+          "endIdx": 34
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "was",
+          "startIdx": 35,
+          "endIdx": 38
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "44",
+          "startIdx": 39,
+          "endIdx": 41
+        }
+      ],
+      "classname": "Age Mention",
+      "confidence": 1.0,
+      "annotated_by": "human"
+    },
+    {
+      "tokens": [
+        {
+          "text": "working",
+          "startIdx": 42,
+          "endIdx": 49
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "in",
+          "startIdx": 50,
+          "endIdx": 52
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "The",
+          "startIdx": 53,
+          "endIdx": 56
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Middle",
+          "startIdx": 57,
+          "endIdx": 63
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "East",
+          "startIdx": 64,
+          "endIdx": 68
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 69,
+          "endIdx": 70
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "In",
+          "startIdx": 71,
+          "endIdx": 73
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "2006",
+          "startIdx": 74,
+          "endIdx": 78
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 79,
+          "endIdx": 80
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "returned",
+          "startIdx": 81,
+          "endIdx": 89
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "to",
+          "startIdx": 90,
+          "endIdx": 92
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "England",
+          "startIdx": 93,
+          "endIdx": 100
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "to",
+          "startIdx": 101,
+          "endIdx": 103
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "see",
+          "startIdx": 104,
+          "endIdx": 107
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "a",
+          "startIdx": 108,
+          "endIdx": 109
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Neurology",
+          "startIdx": 110,
+          "endIdx": 119
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Professor",
+          "startIdx": 120,
+          "endIdx": 129
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 130,
+          "endIdx": 131
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "he",
+          "startIdx": 132,
+          "endIdx": 134
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "could",
+          "startIdx": 135,
+          "endIdx": 140
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "not",
+          "startIdx": 141,
+          "endIdx": 144
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "confirm",
+          "startIdx": 145,
+          "endIdx": 152
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Parkinson's",
+          "startIdx": 153,
+          "endIdx": 164
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "from",
+          "startIdx": 165,
+          "endIdx": 169
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "his",
+          "startIdx": 170,
+          "endIdx": 173
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "examination",
+          "startIdx": 174,
+          "endIdx": 185
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "and",
+          "startIdx": 186,
+          "endIdx": 189
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "so",
+          "startIdx": 190,
+          "endIdx": 192
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 193,
+          "endIdx": 194
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "he",
+          "startIdx": 195,
+          "endIdx": 197
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "arranged",
+          "startIdx": 198,
+          "endIdx": 206
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "a",
+          "startIdx": 207,
+          "endIdx": 208
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Dat",
+          "startIdx": 209,
+          "endIdx": 212
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Scan",
+          "startIdx": 213,
+          "endIdx": 217
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "which",
+          "startIdx": 218,
+          "endIdx": 223
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "confirmed",
+          "startIdx": 224,
+          "endIdx": 233
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "that",
+          "startIdx": 234,
+          "endIdx": 238
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 239,
+          "endIdx": 240
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "do",
+          "startIdx": 241,
+          "endIdx": 243
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "have",
+          "startIdx": 244,
+          "endIdx": 248
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Parkinson's",
+          "startIdx": 249,
+          "endIdx": 260
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 261,
+          "endIdx": 262
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "However",
+          "startIdx": 263,
+          "endIdx": 270
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 271,
+          "endIdx": 272
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "in",
+          "startIdx": 273,
+          "endIdx": 275
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "2013",
+          "startIdx": 276,
+          "endIdx": 280
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 281,
+          "endIdx": 282
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "met",
+          "startIdx": 283,
+          "endIdx": 286
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "with",
+          "startIdx": 287,
+          "endIdx": 291
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "another",
+          "startIdx": 292,
+          "endIdx": 299
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Neurology",
+          "startIdx": 300,
+          "endIdx": 309
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Professor",
+          "startIdx": 310,
+          "endIdx": 319
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "in",
+          "startIdx": 320,
+          "endIdx": 322
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Singapore",
+          "startIdx": 323,
+          "endIdx": 332
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 333,
+          "endIdx": 334
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "he",
+          "startIdx": 335,
+          "endIdx": 337
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "rejected",
+          "startIdx": 338,
+          "endIdx": 346
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "the",
+          "startIdx": 347,
+          "endIdx": 350
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Dat",
+          "startIdx": 351,
+          "endIdx": 354
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Scan",
+          "startIdx": 355,
+          "endIdx": 359
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "findings",
+          "startIdx": 360,
+          "endIdx": 368
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "and",
+          "startIdx": 369,
+          "endIdx": 372
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "said",
+          "startIdx": 373,
+          "endIdx": 377
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "that",
+          "startIdx": 378,
+          "endIdx": 382
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 383,
+          "endIdx": 384
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "did",
+          "startIdx": 385,
+          "endIdx": 388
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "not",
+          "startIdx": 389,
+          "endIdx": 392
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "have",
+          "startIdx": 393,
+          "endIdx": 397
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "the",
+          "startIdx": 398,
+          "endIdx": 401
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "disease",
+          "startIdx": 402,
+          "endIdx": 409
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "but",
+          "startIdx": 410,
+          "endIdx": 413
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 414,
+          "endIdx": 415
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "he",
+          "startIdx": 416,
+          "endIdx": 418
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "didn't",
+          "startIdx": 419,
+          "endIdx": 425
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "say",
+          "startIdx": 426,
+          "endIdx": 429
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "what",
+          "startIdx": 430,
+          "endIdx": 434
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 435,
+          "endIdx": 436
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "had",
+          "startIdx": 437,
+          "endIdx": 440
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 441,
+          "endIdx": 442
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Again",
+          "startIdx": 443,
+          "endIdx": 448
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 449,
+          "endIdx": 450
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "returned",
+          "startIdx": 451,
+          "endIdx": 459
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "to",
+          "startIdx": 460,
+          "endIdx": 462
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "England",
+          "startIdx": 463,
+          "endIdx": 470
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "and",
+          "startIdx": 471,
+          "endIdx": 474
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "the",
+          "startIdx": 475,
+          "endIdx": 478
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Neurologist",
+          "startIdx": 479,
+          "endIdx": 490
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "told",
+          "startIdx": 491,
+          "endIdx": 495
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "me",
+          "startIdx": 496,
+          "endIdx": 498
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "that",
+          "startIdx": 499,
+          "endIdx": 503
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 504,
+          "endIdx": 505
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "have",
+          "startIdx": 506,
+          "endIdx": 510
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "YOPD",
+          "startIdx": 511,
+          "endIdx": 515
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "!",
+          "startIdx": 516,
+          "endIdx": 517
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 518,
+          "endIdx": 519
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "have",
+          "startIdx": 520,
+          "endIdx": 524
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "only",
+          "startIdx": 525,
+          "endIdx": 529
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "met",
+          "startIdx": 530,
+          "endIdx": 533
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "3-4",
+          "startIdx": 534,
+          "endIdx": 537
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "other",
+          "startIdx": 538,
+          "endIdx": 543
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Parkinson's",
+          "startIdx": 544,
+          "endIdx": 555
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "victims",
+          "startIdx": 556,
+          "endIdx": 563
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ",",
+          "startIdx": 564,
+          "endIdx": 565
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "all",
+          "startIdx": 566,
+          "endIdx": 569
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "were",
+          "startIdx": 570,
+          "endIdx": 574
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "older",
+          "startIdx": 575,
+          "endIdx": 580
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "than",
+          "startIdx": 581,
+          "endIdx": 585
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "myself",
+          "startIdx": 586,
+          "endIdx": 592
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 593,
+          "endIdx": 594
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Now",
+          "startIdx": 595,
+          "endIdx": 598
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "it",
+          "startIdx": 599,
+          "endIdx": 601
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "seems",
+          "startIdx": 602,
+          "endIdx": 607
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "that",
+          "startIdx": 608,
+          "endIdx": 612
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 613,
+          "endIdx": 614
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "am",
+          "startIdx": 615,
+          "endIdx": 617
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "experiencing",
+          "startIdx": 618,
+          "endIdx": 630
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "\"",
+          "startIdx": 631,
+          "endIdx": 632
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "on",
+          "startIdx": 633,
+          "endIdx": 635
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "-",
+          "startIdx": 636,
+          "endIdx": 637
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "off",
+          "startIdx": 638,
+          "endIdx": 641
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "\"",
+          "startIdx": 642,
+          "endIdx": 643
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "symptoms",
+          "startIdx": 644,
+          "endIdx": 652
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "and",
+          "startIdx": 653,
+          "endIdx": 656
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "do",
+          "startIdx": 657,
+          "endIdx": 659
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "not",
+          "startIdx": 660,
+          "endIdx": 663
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "know",
+          "startIdx": 664,
+          "endIdx": 668
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "what",
+          "startIdx": 669,
+          "endIdx": 673
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "to",
+          "startIdx": 674,
+          "endIdx": 676
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "do",
+          "startIdx": 677,
+          "endIdx": 679
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "about",
+          "startIdx": 680,
+          "endIdx": 685
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "it",
+          "startIdx": 686,
+          "endIdx": 688
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 689,
+          "endIdx": 690
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "I",
+          "startIdx": 691,
+          "endIdx": 692
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "am",
+          "startIdx": 693,
+          "endIdx": 695
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "living",
+          "startIdx": 696,
+          "endIdx": 702
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "in",
+          "startIdx": 703,
+          "endIdx": 705
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Indonesia",
+          "startIdx": 706,
+          "endIdx": 715
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "where",
+          "startIdx": 716,
+          "endIdx": 721
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "there",
+          "startIdx": 722,
+          "endIdx": 727
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "are",
+          "startIdx": 728,
+          "endIdx": 731
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "no",
+          "startIdx": 732,
+          "endIdx": 734
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "support",
+          "startIdx": 735,
+          "endIdx": 742
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "groups",
+          "startIdx": 743,
+          "endIdx": 749
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 750,
+          "endIdx": 751
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": "cookies",
+          "startIdx": 752,
+          "endIdx": 759
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    },
+    {
+      "tokens": [
+        {
+          "text": ".",
+          "startIdx": 760,
+          "endIdx": 761
+        }
+      ],
+      "classname": "",
+      "confidence": 1.0,
+      "annotated_by": "machine"
+    }
+  ],
+  "judgments_count": 1,
+  "text": ""
+}

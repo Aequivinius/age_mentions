@@ -8,8 +8,8 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 pandas = "*"
-urllib = "*"
 requests = "*"
+jsonpath-ng = "*"
 
 [requires]
 python_version = "3.8"
