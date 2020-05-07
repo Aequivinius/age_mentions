@@ -1,4 +1,5 @@
-* For 62987 characters, it took me about 2 h (5845816 in total) (that's 1%) (200h total)
+* now it took me about 4 h for the 4% I'm through.
+
 
 * From the files in `data`, extract `portal_url` (which serves as ID) and `text_raw`.
 * in Numbers, mark all, right click and select `wrap text`. Also, alternating row colours helps.
@@ -9,7 +10,7 @@ ANNOTATION
 * confidence (see below)
 * about (if multiple apply, it's comma-separated: `patient,speaker`)
   * speaker (= author of post, sometimes they interview people and then the AM's are not annotated as speaker even though they say 'I was about 16')
-  * patient (means person who has the disease, could also be 'about' oä)
+  * patient (means person who has the disease, or any other disease)
   * nothing: eg: The **mother** of a boy with AS...
 
 CONFIDENCE
@@ -20,7 +21,9 @@ CONFIDENCE
    * in utero
    * prenatal
    * newborn babies
+   * often as 'm29', or '29m'
 * confidence 2: age group
+   * as early as
    * early age, early life, older children
    * childhood
    * baby
@@ -39,6 +42,7 @@ CONFIDENCE
    * son, daughter (could be used in a religious meaning, but was still annotated)
    * grandson, daughter-in-law, nephew
    * boy
+   * aunt
    * mother, father, dad, parents, mama
    * little X, wee X
    * young woman
