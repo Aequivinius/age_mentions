@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+    <element name="Age Mention">
+        <complexType>
+            <attribute name="about" use="optional" >
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="patient"/>
+                        <enumeration value="none"/>
+                        <enumeration value="speaker"/>
+                    </restriction>
+                </simpleType>
+            </attribute>
+            <attribute name="confidence" use="optional" >
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="1"/>
+                        <enumeration value="2"/>
+                        <enumeration value="3"/>
+                    </restriction>
+                </simpleType>
+            </attribute>
+
+        </complexType>
+    </element>
+</schema>

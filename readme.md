@@ -18,14 +18,23 @@ CONFIDENCE
    * X birthday
    * embryo
    * in utero
+   * prenatal
 * confidence 2: age group
-   * early age
-   * baby (can also be used affectionately, in which case it was still annotated but with confidence 1)
+   * early age, early life, older children
+   * childhood
+   * baby
+      * if affectionately, annotated with confidence 1
    * child, children, kids
    * pediatric X
+   * X-something
+   * juveniles, adolescent
+   * adult
+   * early postnatal
 * confidence 1: vague
    * son, daughter (could be used in a religious meaning, but was still annotated)
    * grandson, daughter-in-law, nephew
    * boy
-   * mother, father, dad, parents
+   * mother, father, dad, parents, mama
    * little X, wee X
+   * young woman
+   * young
