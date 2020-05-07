@@ -8,7 +8,7 @@ ANNOTATION
 * spans (if discontinuous it's A,B;C,D;...)
 * confidence (see below)
 * about (if multiple apply, it's comma-separated: `patient,speaker`)
-  * speaker
+  * speaker (= author of post, sometimes they interview people and then the AM's are not annotated as speaker even though they say 'I was about 16')
   * patient (means person who has the disease, could also be 'about' oä)
   * nothing: eg: The **mother** of a boy with AS...
 
@@ -16,9 +16,10 @@ CONFIDENCE
 * confidence 3: precise age mention (within 1 year)
    * age X, X month
    * X birthday
-   * embryo
+   * embryo, fetal
    * in utero
    * prenatal
+   * newborn babies
 * confidence 2: age group
    * early age, early life, older children
    * childhood
@@ -29,7 +30,11 @@ CONFIDENCE
    * X-something
    * juveniles, adolescent
    * adult
+   * pre-teen
    * early postnatal
+   * age out of school
+   * legal adultood
+   * third grade
 * confidence 1: vague
    * son, daughter (could be used in a religious meaning, but was still annotated)
    * grandson, daughter-in-law, nephew
@@ -38,3 +43,5 @@ CONFIDENCE
    * little X, wee X
    * young woman
    * young
+   * older Angel
+   * after they graduate
