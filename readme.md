@@ -1,4 +1,4 @@
-* now it took me about 4 h for the 4% I'm through.
+* now it took me about 4 h for the 4% I'm through. I'm at line 66 now of MS-reddit.
 
 
 * From the files in `data`, extract `portal_url` (which serves as ID) and `text_raw`.
@@ -16,6 +16,7 @@ ANNOTATION
 CONFIDENCE
 * confidence 3: precise age mention (within 1 year)
    * age X, X month
+   * X y.o., Xyo
    * X birthday
    * embryo, fetal
    * in utero
@@ -23,6 +24,7 @@ CONFIDENCE
    * newborn babies
    * often as 'm29', or '29m'
 * confidence 2: age group
+   * in their Xs, in her late Xs
    * as early as
    * early age, early life, older children
    * childhood
@@ -38,14 +40,15 @@ CONFIDENCE
    * age out of school
    * legal adultood
    * third grade
-* confidence 1: vague
+* confidence 1: vague or infered
+   * 'got years ahead of her'
    * son, daughter (could be used in a religious meaning, but was still annotated)
    * grandson, daughter-in-law, nephew
    * boy
    * aunt
-   * mother, father, dad, parents, mama
+   * mother, father, dad, parents, mama, grandma
    * little X, wee X
-   * young woman
+   * young woman, I'm old
    * young
    * older Angel
    * after they graduate
