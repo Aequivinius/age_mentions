@@ -17,7 +17,10 @@ CONFIDENCE
 * confidence 3: precise age mention (within 1 year)
    * age X, X month
    * X y.o., Xyo
-   * X birthday, my Xth, just turned X
+   * within the first year of life
+   * when I was born
+   * I was X (spelled out)
+   * X birthday, my Xth, just turned X, I am turning X
    * embryo, fetal
    * in utero
    * prenatal
@@ -25,29 +28,33 @@ CONFIDENCE
    * I am XF
    * newborn babies
    * often as 'm29', or '29m'
+
 * confidence 2: age group
    * right before my Xnd bday
    * in their Xs, in her late Xs
    * mid Xs
    * ~50
    * as early as
+   * post X
+   * underage
    * almost X yo
-   * under X
+   * under X, not even X yrs old
    * early age, early life, older children
-   * childhood, early teen, teenager
+   * childhood, early teen, teenager, early childhood
    * between X and Y years of age
    * baby, newborn x, fetus
       * if affectionately, annotated with confidence 1
-   * child, children, kids (but not 'only child'), kid, little kid
+   * child, children, kids (but not 'only child'), kid, little kid (but not 'like a child') (and not if it's ficticious - thinking about having a second child)
    * pediatric X
    * X-something
    * juveniles, adolescent
    * adult
    * pre-teen
    * early postnatal
-   * age out of school, a month after I graduated college, when I was in college
+   * age out of school, a month after I graduated college, when I was in college, early college years
    * legal adultood
    * third grade
+
 * confidence 1: vague or infered
    * 'got years ahead of her'
    * son, daughter (could be used in a religious meaning, but was still annotated)
@@ -56,7 +63,7 @@ CONFIDENCE
    * aunt
    * mother, father, dad, parents, mama, grandma, grandfather, grandpa
    * little X, wee X
-   * young woman, I'm old
+   * young woman, I'm old, younger days
    * young, elderly (but not 'too young'), greater chronological age
    * older Angel (but not 'my older sister')
-   * after they graduate
+   * after they graduate, about to graduate from university
