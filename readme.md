@@ -15,7 +15,7 @@ ANNOTATION
 
 CONFIDENCE
 * confidence 3: precise age mention (within 1 year)
-   * age X, X month
+   * age X, X month, age X/M
    * X y.o., Xyo
    * within the first year of life
    * when I was born
@@ -25,8 +25,9 @@ CONFIDENCE
    * in utero
    * prenatal
    * (Xmf), (Xyo male)
-   * I am XF
+   * I am XF (but not 'like I was 15 yo again')
    * newborn babies
+   * I was X
    * often as 'm29', or '29m'
 
 * confidence 2: age group
@@ -38,6 +39,7 @@ CONFIDENCE
    * post X
    * underage
    * almost X yo
+   * child of this generation
    * under X, not even X yrs old
    * early age, early life, older children
    * childhood, early teen, teenager, early childhood
@@ -51,7 +53,7 @@ CONFIDENCE
    * adult
    * pre-teen
    * early postnatal
-   * age out of school, a month after I graduated college, when I was in college, early college years
+   * age out of school, a month after I graduated college, when I was in college, early college years, straight out of high-school, headed into college, entering college
    * legal adultood
    * third grade
 
