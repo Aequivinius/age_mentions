@@ -12,7 +12,7 @@
 
 * (Xm), (XF), Xm, mX, X/m, (X yo male)
 * age X, X month, age X/M, age X/F
-* at X
+* at X, at the age of X
 * I was X, I am X, I'm X, I'm currently X
 * X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes)
 * within the first year of life
@@ -26,6 +26,7 @@
 
 * baby (if used affectionately, annotated with confidence 1), early postnatal
 * childhood, early childhood, older children, child, children, kids (but not 'only child'), kid, little kid
+* growing up
 * in my teens, early teen, teenager, pre-teen (watch out for 'teenie bit')
 * juveniles, adolescent, puberty
 * pediatric X, pediatric-onset X
@@ -53,6 +54,8 @@
 * menopause
 * child of this generation
 
+* I could've annotatated 'pregnancy' or 'after my daughter', as this allows implication of age, but didn't, because I came to think of it too late.
+
 ### Data Conversion
 
 * From the files in `data`, extract `portal_url` (which serves as ID) and `text_raw`.
@@ -61,4 +64,5 @@
 
 ### Current State of Annotation
 
-* ~1 980 000 of 5 845 816 characters in total (30%, which took me about 20h)
+* `wc -m manual_annotation/diseasementions/*`
+* ~2 300 000 of 5 845 816 characters in total (40%, which took me about 22h)
