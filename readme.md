@@ -3,7 +3,7 @@
 * 3 things are annotated *per age mention*: span, confidence and about.
   * only AMs for humans and mice are labelled, not for cells ('adult oligodendrocytes')
   * spans can be discontinuous, eg `5,9;11,13`
-  * confidence is either `1` (for infered or uncertain AMs), `2` for age groups and `3` if precise within 1 year
+  * confidence is either `1` (for infered or unspecific AMs), `2` for age groups and `3` if precise within 1 year
   * about is either `speaker` (the person who wrote the post) or `patient` (person who has **a** disease, not necessarily the disease in question for the dataset). Can be also both or nothing (if it's about somebody the doctor, for example). Sometimes there will be quoted speech in a post (a patient said: 'I was 16'), which is not annotated as `speaker` if 
 
 ### Patterns (Confidence 3)
@@ -27,11 +27,11 @@
 * baby (if used affectionately, annotated with confidence 1), early postnatal
 * childhood, early childhood, older children, child, children, kids (but not 'only child'), kid, little kid
 * in my teens, early teen, teenager, pre-teen (watch out for 'teenie bit')
-* juveniles, adolescent
-* pediatric X
+* juveniles, adolescent, puberty
+* pediatric X, pediatric-onset X
 * underage
 * early age, early life
-* adult, legal adultood
+* adult, legal adultood, young adult
 * **Xs**: in their Xs, in her late Xs, mid Xs
 * ~50, X-something
 * between X and Y years of age
@@ -44,10 +44,10 @@
 * son, daughter, grandson, daughter-in-law, nephew
 * boy (depending on how it's used)
 * aunt
-* mother, father, dad, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains')
+* mother, father, dad, daddy, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains')
 * little boy, wee girl
-* young woman, I'm old, in my younger days
-* young, elderly (but not 'too young'), greater chronological age
+* young woman, I'm old, in my younger days, at a young age, elderly lady
+* young, elderly (but not 'too young'), greater chronological age, not young anymore
 * older Angel (but not 'my older sister')
 * age out of school, a month after I graduated college, when I was in college, early college years, straight out of high-school, headed into college, entering college, back to college (but not 'want to go back to school'), third grade, after they graduate, about to graduate from university
 * menopause
