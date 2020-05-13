@@ -1,7 +1,7 @@
 ### Annotation
 
 * 3 things are annotated *per age mention*: span, confidence and about.
-  * only AMs for humans and mice are labelled, not for cells ('adult oligodendrocytes')
+  * only AMs for humans and mice are labelled, not for cells ('adult oligodendrocytes'); nor for diseases ('my 36 yo MS')
   * spans can be discontinuous, eg `5,9;11,13`
   * confidence is either `1` (for infered or unspecific AMs), `2` for age groups and `3` if precise within 1 year
   * about is either `speaker` (the person who wrote the post) or `patient` (person who has **a** disease, not necessarily the disease in question for the dataset). Can be also both or nothing (if it's about somebody the doctor, for example). Sometimes there will be quoted speech in a post (a patient said: 'I was 16'), which is not annotated as `speaker` if 
@@ -12,8 +12,8 @@
 
 * (Xm), (XF), Xm, mX, X/m, (X yo male)
 * age X, X month, age X/M, age X/F
-* at X, at the age of X
-* I was X, I am X, I'm X, I'm currently X
+* at X (watch out: can also be a street information, eg 'at 69, Colebroke Row'), at the age of X
+* I was X, I am X, I'm X, I'm currently X, I'm only X
 * X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes)
 * within the first year of life
 * **birthdays**: X birthday, my Xth, just turned X, I am turning X, when I was born
@@ -25,7 +25,7 @@
 * Again, hypothetical AMs are not annotated. 'like a child' or even 'child' that is not born ('we're thinking about having a second child')
 
 * baby (if used affectionately, annotated with confidence 1), early postnatal
-* childhood, early childhood, older children, child, children, kids (but not 'only child'), kid, little kid
+* childhood (but not 'I had an awful childhood'), early childhood, older children, child, children, kids (but not 'only child'), kid, little kid
 * growing up
 * in my teens, early teen, teenager, pre-teen (watch out for 'teenie bit')
 * juveniles, adolescent, puberty
