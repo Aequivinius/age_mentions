@@ -13,8 +13,9 @@
 * (Xm), (XF), Xm, mX, X/m, (X yo male)
 * age X, X month, age X/M, age X/F
 * at X (watch out: can also be a street information, eg 'at 69, Colebroke Row'), at the age of X
-* I was X, I am X, I'm X, I'm currently X, I'm only X
+* I was X, I am X, I'm X, I'm currently X, I'm only X, being X
 * X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes)
+* of X (years)
 * within the first year of life
 * **birthdays**: X birthday, my Xth, just turned X, I am turning X, when I was born
 * **embroys**: embryo, fetal, in utero, prenatal, newborn babies, newborn x months, fetus
@@ -36,6 +37,7 @@
 * **Xs**: in their Xs, in her late Xs, mid Xs
 * ~50, X-something
 * between X and Y years of age
+* (early) retirement
 * **>/<**: post X, under X, not even X yrs old
 * **Vagueing**: right before my Xnd bday, as early as, almost X yo
 
