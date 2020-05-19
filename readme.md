@@ -69,4 +69,4 @@
 ### Current State of Annotation
 
 * `wc -m manual_annotation/diseasementions/*`
-* ~2 300 000 of 5 845 816 characters in total (40%, which took me about 22h)
+* ~4 100 000 of 5 845 816 characters in total (70%, which took me about 35h)
