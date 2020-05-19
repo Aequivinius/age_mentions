@@ -5,6 +5,7 @@
             <attribute name="about" use="optional" >
                 <simpleType>
                     <restriction base="string">
+                        <enumeration value="speaker,patient"/>
                         <enumeration value="patient"/>
                         <enumeration value="none"/>
                         <enumeration value="speaker"/>
