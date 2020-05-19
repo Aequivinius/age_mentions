@@ -5,6 +5,7 @@
   * spans can be discontinuous, eg `5,9;11,13`
   * confidence is either `1` (for infered or unspecific AMs), `2` for age groups and `3` if precise within 1 year
   * about is either `speaker` (the person who wrote the post) or `patient` (person who has **a** disease, not necessarily the disease in question for the dataset). Can be also both or nothing (if it's about somebody the doctor, for example). Sometimes there will be quoted speech in a post (a patient said: 'I was 16'), which is not annotated as `speaker` if 
+* No relative age mentions where annotated (my younger brother, millenials)
 
 ### Patterns (Confidence 3)
 
@@ -26,7 +27,7 @@
 * Again, hypothetical AMs are not annotated. 'like a child' or even 'child' that is not born ('we're thinking about having a second child')
 
 * baby (if used affectionately, annotated with confidence 1), early postnatal
-* childhood (but not 'I had an awful childhood'), early childhood, older children, child, children, kids (but not 'only child'), kid, little kid
+* childhood (but not 'I had an awful childhood'), early childhood, older children, child, (small) children, kids (but not 'only child'), kid, little kid
 * growing up
 * in my teens, early teen, teenager, pre-teen (watch out for 'teenie bit')
 * juveniles, adolescent, puberty
@@ -38,6 +39,7 @@
 * ~50, X-something
 * between X and Y years of age
 * (early) retirement
+* college-aged
 * **>/<**: post X, under X, not even X yrs old
 * **Vagueing**: right before my Xnd bday, as early as, almost X yo
 
