@@ -15,7 +15,7 @@
 * age X, X month, age X/M, age X/F
 * at X (watch out: can also be a street information, eg 'at 69, Colebroke Row'), at the age of X
 * I was X, I am X, I'm X, I'm currently X, I'm only X, being X
-* X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes)
+* X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes), Xy/o
 * of X (years)
 * within the first year of life
 * **birthdays**: X birthday, my Xth, just turned X, I am turning X, when I was born
@@ -35,11 +35,11 @@
 * underage
 * early age, early life
 * adult, legal adultood, young adult
-* **Xs**: in their Xs, in her late Xs, mid Xs
+* college-age
+* **Xs**: in their Xs, in her late Xs, mid Xs, X's
 * ~50, X-something
 * between X and Y years of age
-* (early) retirement
-* college-aged
+* (early) retirement, (approaching) retirement age
 * **>/<**: post X, under X, not even X yrs old
 * **Vagueing**: right before my Xnd bday, as early as, almost X yo
 
@@ -49,7 +49,7 @@
 * son, daughter, grandson, daughter-in-law, nephew
 * boy (depending on how it's used)
 * aunt
-* mother, father, dad, daddy, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains')
+* mother, father, dad, daddy, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains'), fatherhood
 * little boy, wee girl
 * young woman, I'm old, in my younger days, at a young age, elderly lady
 * young, elderly (but not 'too young'), greater chronological age, not young anymore
