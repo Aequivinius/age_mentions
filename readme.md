@@ -17,6 +17,7 @@
 * I was X, I am X, I'm X, I'm currently X, I'm only X, being X
 * X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes), Xy/o
 * of X (years)
+* hitting X
 * within the first year of life
 * **birthdays**: X birthday, my Xth, just turned X, I am turning X, when I was born
 * **embroys**: embryo, fetal, in utero, prenatal, newborn babies, newborn x months, fetus
@@ -39,6 +40,7 @@
 * college-age
 * **Xs**: in their Xs, in her late Xs, mid Xs, X's
 * ~50, X-something
+* young onset, YOPD (classified as 2 since it is defined as <50)
 * between X and Y years of age
 * (early) retirement, (approaching) retirement age
 * **>/<**: post X, under X, not even X yrs old
@@ -53,7 +55,7 @@
 * mother, father, dad, daddy, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains'), fatherhood
 * little boy, wee girl
 * young woman, I'm old, in my younger days, at a young age, elderly lady
-* young, elderly (but not 'too young'), greater chronological age, not young anymore
+* young, elderly (but not 'too young'), greater chronological age, not young anymore, young(ish), relatively young
 * older Angel (but not 'my older sister'), younger (but not 'younger than')
 * age out of school, a month after I graduated college, when I was in college, early college years, straight out of high-school, headed into college, entering college, back to college (but not 'want to go back to school'), third grade, after they graduate, about to graduate from university
 * the late Muhammad Ali
