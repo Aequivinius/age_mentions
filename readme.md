@@ -28,6 +28,7 @@
 
 * baby (if used affectionately, annotated with confidence 1), early postnatal
 * childhood (but not 'I had an awful childhood'), early childhood, older children, child, (small) children, kids (but not 'only child'), kid, little kid
+* infant
 * growing up
 * in my teens, early teen, teenager, pre-teen (watch out for 'teenie bit')
 * juveniles, adolescent, puberty
@@ -53,8 +54,9 @@
 * little boy, wee girl
 * young woman, I'm old, in my younger days, at a young age, elderly lady
 * young, elderly (but not 'too young'), greater chronological age, not young anymore
-* older Angel (but not 'my older sister')
+* older Angel (but not 'my older sister'), younger (but not 'younger than')
 * age out of school, a month after I graduated college, when I was in college, early college years, straight out of high-school, headed into college, entering college, back to college (but not 'want to go back to school'), third grade, after they graduate, about to graduate from university
+* the late Muhammad Ali
 * menopause
 * child of this generation
 
