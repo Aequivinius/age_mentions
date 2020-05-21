@@ -16,6 +16,7 @@
 * at X (watch out: can also be a street information, eg 'at 69, Colebroke Row'), at the age of X
 * I was X, I am X, I'm X, I'm currently X, I'm only X, being X
 * X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes), Xy/o
+> 23andme is a bit of a tricky one
 * of X (years)
 * hitting X
 * within the first year of life
@@ -28,7 +29,7 @@
 * Again, hypothetical AMs are not annotated. 'like a child' or even 'child' that is not born ('we're thinking about having a second child')
 
 * baby (if used affectionately, annotated with confidence 1), early postnatal
-* childhood (but not 'I had an awful childhood'), early childhood, older children, child, (small) children, kids (but not 'only child'), kid, little kid
+* childhood (but not 'I had an awful childhood'), early childhood, older children, child, (small) children, kids (but not 'only child'), kid, little kid, childeren
 * infant
 * growing up
 * in my teens, early teen, teenager, pre-teen (watch out for 'teenie bit')
@@ -52,7 +53,7 @@
 * son, daughter, grandson, daughter-in-law, nephew
 * boy (depending on how it's used)
 * aunt
-* mother, father, dad, daddy, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains'), fatherhood
+* mother, father, dad, daddy, parents, mama, grandma, grandfather, grandpa (not 'the mother of all chest pains'), fatherhood, mother-in-law, papa
 * little boy, wee girl
 * young woman, I'm old, in my younger days, at a young age, elderly lady
 * young, elderly (but not 'too young'), greater chronological age, not young anymore, young(ish), relatively young
@@ -74,3 +75,11 @@
 
 * `wc -m manual_annotation/diseasementions/*`
 * ~4 100 000 of 5 845 816 characters in total (70%, which took me about 35h)
+
+* validate patient,speakers
+* statistics
+* random samples to recheck
+* check if it's legal to upload data
+* polish schema
+* find places to publish?
+* script
