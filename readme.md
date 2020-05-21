@@ -2,10 +2,11 @@
 
 * 3 things are annotated *per age mention*: span, confidence and about.
   * only AMs for humans and mice are labelled, not for cells ('adult oligodendrocytes'); nor for diseases ('my 36 yo MS'). One case of 'adult brain', which was labeled.
+  * No relative age mentions where annotated (my younger brother, millenials)
   * spans can be discontinuous, eg `5,9;11,13`
   * confidence is either `1` (for infered or unspecific AMs), `2` for age groups and `3` if precise within 1 year
-  * about is either `speaker` (the person who wrote the post) or `patient` (person who has **a** disease, not necessarily the disease in question for the dataset). Can be also both or nothing (if it's about somebody the doctor, for example). Sometimes there will be quoted speech in a post (a patient said: 'I was 16'), which is not annotated as `speaker` if 
-* No relative age mentions where annotated (my younger brother, millenials)
+  * about is either `speaker` (the person who wrote the post) or `patient` (person who has **a** disease, not necessarily the disease in question for the dataset). Can be also both or nothing (if it's about somebody the doctor, for example). Sometimes there will be quoted speech in a post (a patient said: 'I was 16'), which is not annotated as `speaker` .
+* Annotation was done in GATE for larger documents, using `manual_annotation_schema.xml`
 
 ### Patterns (Confidence 3)
 
@@ -16,7 +17,7 @@
 * at X (watch out: can also be a street information, eg 'at 69, Colebroke Row'), at the age of X
 * I was X, I am X, I'm X, I'm currently X, I'm only X, being X
 * X y.o., Xyo, X-year-old, X yo, X years old (spelling out X sometimes), Xy/o
-> 23andme is a bit of a tricky one
+
 * of X (years)
 * hitting X
 * within the first year of life
@@ -68,18 +69,3 @@
 ### Data Conversion
 
 * From the files in `data`, extract `portal_url` (which serves as ID) and `text_raw`.
-* in Numbers, mark all, right click and select `wrap text`. Also, alternating row colours helps.
-* Find offsets using [this page](https://mothereff.in/byte-counter) for short post, or using GATE for long ones.
-
-### Current State of Annotation
-
-* `wc -m manual_annotation/diseasementions/*`
-* ~4 100 000 of 5 845 816 characters in total (70%, which took me about 35h)
-
-* validate patient,speakers
-* statistics
-* random samples to recheck
-* check if it's legal to upload data
-* polish schema
-* find places to publish?
-* script
