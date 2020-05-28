@@ -8,6 +8,52 @@
   * about is either `speaker` (the person who wrote the post) or `patient` (person who has **a** disease, not necessarily the disease in question for the dataset). Can be also both or nothing (if it's about somebody the doctor, for example). Sometimes there will be quoted speech in a post (a patient said: 'I was 16'), which is not annotated as `speaker` .
 * Annotation was done in GATE for larger documents, using `manual_annotation_schema.xml`
 
+### Data Set
+
+* Total of 3128 documents where annotated (1142 from reddit, 1138 tweets, 736 from web)
+  * 128 for Angelman (112 tweets, 16 web posts)
+  * 1942 for MS (686 from reddit, 779 tweets, 477 from web)
+  * 946 for PD (456 from reddit, 247 tweets, 243 from web)
+* Recap: Annotations categorised by confidence:
+  * Confidence 3 is specific to the year (eg. I am 38 yo)
+  * Confidence 2 is a time spawn (in my 20s)
+  * Confidence 1 is infered or vague (when I was in high school)
+
+* Angeman-social: (47 of 112 contained any annotation)
+  * 3: 18 (total number of annotations of confidence 3)
+  * 2: 13
+  * 1: 45
+* Angelman-web (12 of 16 contained any)
+  * 3: 46
+  * 2: 33
+  * 1: 82
+* MS-reddit (228 of 686 contained any)
+  * 3: 197
+  * 2: 101
+  * 1: 200
+* MS-tweet (34 of 779 contained any)
+  * 3: 9
+  * 2: 10
+  * 1: 31
+* MS-web (147 of 447)
+  * 3: 111
+  * 2: 184
+  * 1: 254
+* PD-reddit (185 of 456 contained any)
+  * 3: 124
+  * 2: 91
+  * 1: 270
+* PD-social (20 of 247 contained any)
+  * 3: 4
+  * 2: 3
+  * 1: 23
+* PD-web (57 of 243 contained any)
+  * 3: 38
+  * 2: 43
+  * 1: 56
+
+* Total annotations: 730 post contained any, 547 of confidence 3, 478 of confidence 2, 961 of confidence 1
+
 ### Patterns (Confidence 3)
 
 * **Note**: Hypothetical ages are not annotated. 'like I was 15 yo again' or 'when I'm 40'
