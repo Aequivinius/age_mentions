@@ -34,7 +34,7 @@ def gate_to_tsv(inpath, outpath):
 
         textnode = root.find('.//TextWithNodes')
         ET.strip_tags(textnode, 'Node')
-        rawtext = textnode.text
+        # rawtext = textnode.text
 
     with open(outpath, 'w') as f:
         # f.write(rawtext + '\t' + annostring)
