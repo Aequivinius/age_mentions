@@ -5,7 +5,7 @@ This data set contains 3016 *documents* from various online sources in which the
 * Documents are grouped by *disease* which they contain (`ANGELMAN`, `MS`, `PD`) and by *source* (`web` for forum posts, `reddit` and `social` for twitter). 
 * The documents are located in `data/annotated` in a `.csv` file named according to the grouping (`disease-source.csv`)
 
-⚠️ For `ANGELMAN`, there are no documents from `reddit`, but for the 2 diseases there are documents from all 3 sources; so there are 8 files.
+⚠️ For `ANGELMAN`, there are no documents from `reddit`, but for the 2 other diseases there are documents from all 3 sources; so there are 8 files in total.
 
 * From the original data in `data/disease_mentions` `portal_url` (which serves as ID) and `text_raw` were extracted  with `manual_annotation.py`. These can be found in `data/converted`.
 * The table below summarises the number of documents for each groups, and how many of those documents contain any AM, as well as the number of AMs per `confidence` in parentheses. Note that one document can contain multiple AM (especially the lengthy web forum posts do).
